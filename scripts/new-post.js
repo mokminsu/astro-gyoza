@@ -8,21 +8,21 @@ function getPostFullPath(fileName) {
 }
 
 const fileName = await input({
-  message: '请输入文件名称',
+  message: '파일 이름을 입력하세요',
   validate: (value) => {
     if (!isFileNameSafe(value)) {
-      return '文件名只能包含字母、数字和连字符'
+      return '파일 이름은 영문, 숫자, 하이픈만 포함할 수 있습니다'
     }
     const fullPath = getPostFullPath(value)
     if (fs.existsSync(fullPath)) {
-      return `${fullPath} 已存在`
+      return `${fullPath}이(가) 이미 존재합니다`
     }
     return true
   },
 })
 
 const title = await input({
-  message: '请输入文章标题',
+  message: '글 제목을 입력하세요',
 })
 
 const content = `---
@@ -36,4 +36,4 @@ draft: false
 
 const fullPath = getPostFullPath(fileName)
 fs.writeFileSync(fullPath, content)
-console.log(`${fullPath} 创建成功`)
+console.log(`${fullPath} 생성 성공`)

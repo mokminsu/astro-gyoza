@@ -1,30 +1,48 @@
 ---
-title: 自述
-description: 这是一份站长的自述报告，请查收。
+title: About
+description: 안녕하세요! 제 이야기를 들려드릴게요.
 comments: false
 ---
 
-## 关于 Gyoza
+## Big Plan에 대해
 
-Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
+Big Plan이라는 이름에는 **크게 성장하고, 오래 나아가는 개발자**가 되고 싶다는 제 마음이 담겨 있어요.  
+저는 유쾌하지만 정확한 코드, 그리고 멋진 구조를 좋아합니다.
 
-Gyoza 的核心理念是简洁，快速，可爱。
+현재 **순천향대학교 컴퓨터소프트웨어공학과**에서 공부하며  
+백엔드 개발, 정보보안, 소프트웨어 개발 전반에 깊은 흥미를 가지고 탐구하고 있어요.
 
-- 在 [Markdown 示例](/posts/markdown) 中展示了 Markdown 的渲染样式
-- 可以前往 [Gyoza 使用指南](/posts/guide) 了解 Gyoza 的使用方法
+## 걸어온 길
 
-Gyoza 是开源的，如果你对这个项目感兴趣，欢迎前往 Gyoza 的 [Github 仓库](https://github.com/lxchapu/astro-gyoza) 来提 Issue 或者 PR。
+- **2023.03 ~ 현재**  
+  컴퓨터소프트웨어공학과 재학 중  
+  알고리즘 문제 해결에도 꾸준히 도전하고 있어요.  
+  _Solved.ac에서 저의 여정을 확인하실 수 있어요!_
 
-## 关于作者
+- **2024.04 ~ 2024.12 — SW Frontier 3기**  
+  실전 프로젝트 중심 프로그램에서 팀과 함께 개발 경험을 쌓았어요.
 
-我是 lxchapu，是一名前端开发者，喜欢各种有趣的东西。欢迎访问我的个人网站 [www.lxchapu.com](https://www.lxchapu.com)，了解关于我更多的信息。
+- **2024.01 ~ 2024.12 — SW 융합대학 학생회**  
+  행사를 기획하고 운영하며 다양한 사람들과 협업하는 법을 배웠어요.
 
-## 致谢
+## 프로젝트
 
-感谢以下项目：
+여기에 프로젝트 이야기를 가득 쓰고싶으나, 생각보다 멋지지 않아 [프로젝트](/projects)에서 확인할 수 있도록 준비했어요!
 
-- [Astro](https://astro.build/)
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Jotai](https://jotai.org/)
+## 기술 스택 (Basic)
+
+아직까지 학생 개발자가 기술 스택을 다양하지 않지만, 하나하나 늘려가고 있어요!
+
+- **Languages:** Python, Java, Kotlin, C++, C#, Lua, PHP
+- **Frameworks:** Flask, Spring Boot
+- **Tools:** Git, Gradle, Maven
+
+## 연락하기
+
+저에게 특별히 하고싶은 말이 있다면 다음 연락처로 연락하실 수 있어요!
+
+- **Email:** contact@mokminsu.dev
+
+## 감사의 말
+
+이 블로그가 탄생할 수 있도록 테마를 공유해준 [lxchapu](https://github.com/lxchapu)에게 큰 감사의 말을 전해요!

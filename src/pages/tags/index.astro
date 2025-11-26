@@ -7,13 +7,13 @@ import PageLayout from '@/layouts/PageLayout.astro'
 const allTags = await getAllTags()
 ---
 
-<PageLayout title="标签">
+<PageLayout title="태그">
   <div class="max-w-[800px] mx-auto px-4 py-16">
     <header class="space-y-4 mb-8">
       <h1 class="text-4xl font-bold">
-        <Highlight>标签云</Highlight>
+        <Highlight>태그 클라우드</Highlight>
       </h1>
-      <p>共有 {allTags.length} 个标签。</p>
+      <p>{allTags.length}개의 태그가 있습니다.</p>
     </header>
 
     <TagList tags={allTags} />

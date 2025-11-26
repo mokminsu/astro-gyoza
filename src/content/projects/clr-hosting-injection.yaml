@@ -1,0 +1,4 @@
+title: CLR-Hosting-Injection
+description: CLR-Hosting-Injection은 C++ 코드에서 .NET으로 빌드된 어셈블리에 .NET DLL을 인젝션 하는 프로젝트에요.
+link: https://github.com/mokminsu/CLR_Hosting_Injection
+image: https://github.com/mokminsu/CLR_Hosting_Injection/raw/master/Images/cover.png

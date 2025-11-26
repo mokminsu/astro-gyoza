@@ -1,18 +1,18 @@
 ---
-title: 朋友们
-description: 我的小伙伴们和一些有趣的站点。
+title: Friends
+description: 친구 링크를 교환하는 방법에 대해 안내해드릴게요!
 comments: true
 ---
 
-## 怎么申请友链？
+## 어떻게 친구 링크를 신청하나요?
 
-想要交换友链的小伙伴们，欢迎去本站的 [Github 仓库](https://github.com/lxchapu/astro-gyoza/tree/main/src/content/friends)提交一个 PR。审核通过后，就可以在这里展示啦。
+친구 링크를 교환하고 싶은 분들은 이 사이트의 [Github 저장소](https://github.com/lxchapu/astro-gyoza/tree/main/src/content/friends)로 PR을 제출해 주세요. 검토가 통과되면 여기에서 표시됩니다.
 
-请在`/src/content/friends/`目录下添加一个`<short-name>.yaml`文件，参考格式：
+`/src/content/friends/` 디렉토리에 `<short-name>.yaml` 파일을 추가해 주세요. 참고 형식：
 
 ```yml
-title: 网站名称
-description: 一句话介绍下你的网站或者你自己
-link: 网站地址
-avatar: 头像地址
+title: 웹사이트 이름
+description: 한문장으로 소개해주세요!
+link: 웹사이트 주소
+avatar: 아바타 주소
 ```

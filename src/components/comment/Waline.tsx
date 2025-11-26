@@ -10,11 +10,11 @@ export function Waline({ serverURL }: { serverURL: string }) {
       el: ref.current,
       serverURL,
       dark: "[data-theme='dark']",
-      login: 'force',
+      login: 'disable',
       imageUploader: false,
       search: false,
       locale: {
-        placeholder: '发条友善的评论吧（支持 Markdown 语法）…',
+        placeholder: '댓글을 남겨주세요. (Markdown 구문 지원)…',
       },
       emoji: ['//unpkg.com/@waline/emojis@1.1.0/bilibili'],
     })
