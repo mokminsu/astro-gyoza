@@ -1,24 +1,52 @@
-<svg viewBox="0 0 242.1 124" height="50" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <!-- B (세로 획) -->
-    <path pathLength="1" d="M 10,24 L 4,116" />
+<svg viewBox="295 230 655 170" height="50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g style="fill: none !important; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round;">
+    <!-- B 세로 획 -->
+    <path 
+      pathLength="1" 
+      d="M 326 255 L 310 383" 
+      style="fill: none !important; stroke-width: 6px;" 
+    />
 
-    <!-- B (곡선 획) -->
-    <path pathLength="1" d="M 7,22 C 18,10 30,18 28,32 C 24,40 16,50 13,57 C 24,60 38,70 36,83 C 30,91 16,108 1,118" />
+    <!-- B 필기체 꼬리/곡선 -->
+    <path 
+      pathLength="1" 
+      d="M 318 252 C 348 236, 381 247, 375 266 C 363 277, 342 291, 335 301 C 363 305, 401 319, 395 337 C 380 348, 343 372, 303 386" 
+      style="fill: none !important; stroke-width: 6px;" 
+    />
 
-    <!-- I (세로 획) -->
-    <path pathLength="1" d="M 69,22 L 55,120" />
+    <!-- I 흘림선 -->
+    <path 
+      pathLength="1" 
+      d="M 484 252 L 446 389" 
+      style="fill: none !important; stroke-width: 6px;" 
+    />
 
-    <!-- G (곡선 및 가로 획) -->
-    <path pathLength="1" d="M 106,25 C 93,32 76,76 80,93 C 87,95 103,77 103,67 L 117,61" />
+    <!-- G 필기체 곡선과 꺾임 -->
+    <path 
+      pathLength="1" 
+      d="M 584 257 C 550 267, 505 328, 515 352 C 535 355, 577 330, 578 316 L 614 307" 
+      style="fill: none !important; stroke-width: 6px;" 
+    />
 
-    <!-- P (세로 획) -->
-    <path pathLength="1" d="M 135,28 L 122,98" />
+    <!-- P 세로 내림선 -->
+    <path 
+      pathLength="1" 
+      d="M 663 261 L 628 359" 
+      style="fill: none !important; stroke-width: 6px;" 
+    />
 
-    <!-- P (머리 곡선) -->
-    <path pathLength="1" d="M 134,24 C 144,12 157,21 155,32 C 151,40 142,51 135,58" />
+    <!-- P 둥근 머리 -->
+    <path 
+      pathLength="1" 
+      d="M 659 255 C 687 238, 721 251, 716 266 C 705 277, 680 293, 661 303" 
+      style="fill: none !important; stroke-width: 6px;" 
+    />
 
-    <!-- lan (이어지는 필기체 꼬리 획) -->
-    <path pathLength="1" d="M 169,21 L 156,89 C 169,81 169,81 171,86 C 179,82 190,69 188,83 C 195,84 212,66 210,81 C 218,79 237,70 238,83" />
+    <!-- lan 한 번에 이어지는 유려한 필기체 꼬리 -->
+    <path 
+      pathLength="1" 
+      d="M 753 251 L 719 346 C 755 335, 755 335, 759 342 C 781 336, 810 318, 804 337 C 825 338, 870 314, 865 335 C 885 332, 936 320, 938 338" 
+      style="fill: none !important; stroke-width: 6px;" 
+    />
   </g>
 </svg>
