@@ -1,5 +1,5 @@
 ---
-title: [Reversing.kr] Easy Crack 풀이
+title: "[Reversing.kr] Easy Crack 풀이"
 date: 2026-09-12
 summary: Reversing.kr Easy Crack 풀이
 category: Reversing
